@@ -12,3 +12,5 @@ Language used:
 
 How to run:
 Open in NetBeans IDE and run the main file.
+
+This project is part of my backend development learning journey focusing on Java and software engineering fundamentals.
